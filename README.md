@@ -40,9 +40,13 @@
    The program will process the input files and generate the `output_file.csv` in the same directory.
 
 3. **Provide Your Own Files**:
-   - To use your own files, simply replace the default `flow_logs.txt` and `lookup_table.csv` with your own versions. Ensure they follow the required format:
-     - **Flow Log File**: 14 fields per line, with port and protocol numbers.
-     - **Lookup Table File**: Three columns: destination port, protocol, and tag.
+   - To use your own files, simply replace the default `flow_logs.txt` and `lookup_table.csv` with your own versions. 
+   ```bash
+     python flow_log_parser.py --lookuptable /path/to/your/lookup_table.csv
+     ```
+   ```bash
+    python flow_log_parser.py --flowlogs /path/to/your/flow_logs.txt
+    ``` 
    
 4. **Output Location**:
    - The program will generate the output file (`output_file.csv`) in the same directory as the script.
