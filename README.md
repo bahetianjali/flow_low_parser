@@ -36,8 +36,8 @@
      ```bash
      python flow_log_parser.py
      ```
-
-   The program will process the input files and generate the `output_file.csv` in the same directory.
+     The program will process the input files and generate the `output_results_YYYYMMDDHHMMSS.csv`, where the timestamp reflects the exact time of execution in the same directory.
+   
 
 3. **Provide Your Own Files**:
    - To use your own files, simply replace the default `flow_logs.txt` and `lookup_table.csv` with your own versions. 
