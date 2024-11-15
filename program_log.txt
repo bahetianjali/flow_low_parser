@@ -1,0 +1,23 @@
+2024-11-14 20:51:56,002 - INFO - Loading lookup table...
+2024-11-14 20:51:56,002 - ERROR - Lookup table parsing error at line 13: Error parsing row - ['fheiwhei', ' fih', ' hiuh3ewi']. Error: invalid literal for int() with base 10: 'fheiwhei'
+2024-11-14 20:51:56,002 - ERROR - Lookup table parsing error at line 14: Error parsing row - ['     ', '223', ' hjgj']. Error: invalid literal for int() with base 10: ''
+2024-11-14 20:51:56,002 - INFO - Lookup table loaded successfully.
+2024-11-14 20:51:56,003 - WARNING - Flow log error on line 1: Incorrect number of fields
+2024-11-14 20:51:56,003 - INFO - Tag counts and port/protocol counts written to output_results_20241114205156.csv
+2024-11-14 20:51:56,003 - INFO - Program finished execution
+2024-11-14 20:52:06,694 - INFO - Loading lookup table...
+2024-11-14 20:52:06,695 - ERROR - Lookup table parsing error at line 13: Error parsing row - ['fheiwhei', ' fih', ' hiuh3ewi']. Error: invalid literal for int() with base 10: 'fheiwhei'
+2024-11-14 20:52:06,695 - ERROR - Lookup table parsing error at line 14: Error parsing row - ['     ', '223', ' hjgj']. Error: invalid literal for int() with base 10: ''
+2024-11-14 20:52:06,695 - INFO - Lookup table loaded successfully.
+2024-11-14 20:52:06,695 - WARNING - Flow log error on line 1: Invalid version
+2024-11-14 20:52:06,695 - WARNING - Flow log error on line 16: Incorrect number of fields
+2024-11-14 20:52:06,695 - INFO - Tag counts and port/protocol counts written to output_results_20241114205206.csv
+2024-11-14 20:52:06,695 - INFO - Program finished execution
+2024-11-14 21:07:39,966 - INFO - Loading lookup table...
+2024-11-14 21:07:39,967 - ERROR - Lookup table parsing error at line 13: Error parsing row - ['fheiwhei', ' fih', ' hiuh3ewi']. Error: invalid literal for int() with base 10: 'fheiwhei'
+2024-11-14 21:07:39,967 - ERROR - Lookup table parsing error at line 14: Error parsing row - ['     ', '223', ' hjgj']. Error: invalid literal for int() with base 10: ''
+2024-11-14 21:07:39,967 - INFO - Lookup table loaded successfully.
+2024-11-14 21:07:39,967 - WARNING - Flow log error on line 1: Invalid version
+2024-11-14 21:07:39,967 - WARNING - Flow log error on line 16: Incorrect number of fields
+2024-11-14 21:07:39,967 - INFO - Tag counts and port/protocol counts written to output_results_20241114210739.csv
+2024-11-14 21:07:39,967 - INFO - Program finished execution
